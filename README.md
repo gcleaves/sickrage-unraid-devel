@@ -1,6 +1,6 @@
 This is a Dockerfile setup for sickrage - https://www.sickrage.tv/forums/
 
-It runs the develop branch, not the master branch, which is necessary for me to use an Android app to control the system.
+It runs the develop branch, not the master branch, so that I can use a Sickbeard Android app to control the system.
 
 To run:
 
