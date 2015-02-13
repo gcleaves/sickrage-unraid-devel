@@ -1,5 +1,7 @@
 This is a Dockerfile setup for sickrage - https://www.sickrage.tv/forums/
 
+It runs the develop branch, not the master branch.
+
 To run:
 
 ```
